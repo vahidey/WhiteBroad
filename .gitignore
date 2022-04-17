@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Client/whitebroad/node_modules
+Client/whitebroad/.pnp
+.Client/whitebroad/pnp.js
+
+# testing
+.Client/whitebroad/coverage
+
+# production
+.Client/whitebroad/build
+
+# misc
+.Client/whitebroad/.DS_Store
+.Client/whitebroad/.env.local
+.Client/whitebroad/.env.development.local
+.Client/whitebroad/.env.test.local
+.Client/whitebroad/.env.production.local
+
+.Client/whitebroad/npm-debug.log*
+.Client/whitebroad/yarn-debug.log*
+.Client/whitebroad/yarn-error.log*
+
+
+Client/whitebroad/node_modules
+Server/node_modules

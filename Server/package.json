@@ -1,0 +1,23 @@
+{
+  "name": "whitebroad",
+  "version": "1.0.0",
+  "description": "Whiteboard script online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WhiteBroad"
+  },
+  "keywords": [
+    "online",
+    "whiteboard",
+    "script"
+  ],
+  "author": "Vahid Esmaeili",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  }
+}
